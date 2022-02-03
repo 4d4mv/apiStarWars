@@ -1,0 +1,25 @@
+header{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+header > img{
+    width: 150px;
+}
+section{
+    display: flex;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+section > div{
+    border: 1px solid #000;
+    width: 25%;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    padding: 10px;
+}
+section > div > img{
+    height: 60px;
+}
